@@ -1,13 +1,7 @@
 /* ***************  BW invert tool ***************
- * Nicolás De Francesco, Feb. 2020
- * 
+
  * This tool inverts the lightness of the image, conserving color hues and saturation.
- * It was created for inverting black or white background images for presentations.
- * The whole idea spawned from this tweet: 
- * https://twitter.com/rhutto3/status/1223001958811725825?s=20
- * 
- * The main routine is derived form Jérôme Mutterer's insightful snippet: 
- * https://twitter.com/jmutterer/status/1224027996320927748?s=20	
+ * It was created for inverting black or white background images for presentations.	
  * 
  * Right click on the icon to configure additional gamma compression. 	
  * 	
